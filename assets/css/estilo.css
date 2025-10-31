@@ -101,9 +101,6 @@ h1{
         margin:0px;
         padding:0px;
         text-transform: uppercase;
-        background-color:white;
-        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.25);
-
         border:1px solid #CCCCCC;
         border-radius:3px;
     }
@@ -143,9 +140,4 @@ h1{
         text-transform: uppercase;
         font-weight: bold;
         border-radius:3px;
-        cursor: pointer;
-    }
-
-    #direita button:hover{
-        background-color:#ff861caf;
     }
