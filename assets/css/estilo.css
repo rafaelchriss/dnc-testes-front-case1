@@ -142,3 +142,8 @@ h1{
         font-weight: bold;
         border-radius:3px;
     }
+
+    #direita button:hover{
+        cursor: pointer;
+        background-color: #D45A00;
+    }
